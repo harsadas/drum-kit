@@ -1,0 +1,68 @@
+body {
+  background-color: cyan;
+  text-align: center;
+  margin: 0%;
+  
+ 
+}
+
+.set {
+  position: relative;
+  background-color: darkviolet;
+  height: 200px;
+  padding-top: 10%;
+}
+.drum {
+  
+  height: 50%;
+  width: 10%;
+  margin: 10px;
+  cursor: pointer;
+  
+}
+.w {
+  
+  background: url("/drumKit/images/tom1.png") no-repeat top left;
+  padding: 2px 8px;
+}
+
+.a {
+
+  background: url("/drumKit/images/tom2.png") no-repeat top left;
+  padding: 2px 8px;
+}
+
+.s {
+  
+  background: url("/drumKit/images/tom3.png") no-repeat top left;
+  padding: 2px 8px;
+}
+
+.d {
+  
+  background: url("/drumKit/images/tom4.png") no-repeat top left;
+  padding: 2px 8px;
+}
+
+.j {
+  
+  background: url("/drumKit/images/snare.png") no-repeat top left;
+  padding: 2px 8px;
+}
+
+.k {
+  
+  background: url("/drumKit/images/crash.png") no-repeat top left;
+  padding: 2px 8px;
+}
+
+.l {
+  
+  background: url("/drumKit/images/kick.png") no-repeat top left;
+  padding: 2px 8px;
+}
+
+footer{
+  background-color: azure;
+  margin-top: 20%;
+}
